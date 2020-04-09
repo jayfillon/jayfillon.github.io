@@ -1,5 +1,10 @@
 #header {
-  background: url("../images/demo.jpg") repeat scroll center center / cover;
+  background: url("https://images.pexels.com/photos/2923591/pexels-photo-2923591.jpeg")
+    no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   height: 100vh;
   width: 100%;
 }
